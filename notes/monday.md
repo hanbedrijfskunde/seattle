@@ -26,6 +26,8 @@ Paper form recognition >> JSON
 
 Azure Machine Learning >> VS Code
 
+[Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/introduction)
+
 ### Other
 
 #### Kwaliteitssysteem
