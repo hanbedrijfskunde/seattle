@@ -32,6 +32,14 @@ PowerApps
 
 Microsoft Flow
 
+### IoT Vision and Roadmap
+[IoTSchool](https://iotschool.microsoft.com/en-us/home)
+
+[IoTShow](https://channel9.msdn.com/Shows/Internet-of-Things-Show)
+
+Azure Sphere >> Security >> Visual Studio MCU programming
+
+
 ### Other
 
 #### Kwaliteitssysteem
