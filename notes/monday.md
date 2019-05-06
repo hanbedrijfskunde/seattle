@@ -39,6 +39,10 @@ Microsoft Flow
 
 Azure Sphere >> Security >> Visual Studio MCU programming
 
+Azure IoT Edge
+
+ExpressLogic
+
 
 ### Other
 
