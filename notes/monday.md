@@ -30,6 +30,8 @@ Azure Machine Learning >> VS Code
 
 PowerApps
 
+Microsoft Flow
+
 ### Other
 
 #### Kwaliteitssysteem
