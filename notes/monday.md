@@ -4,6 +4,7 @@
 - [Edge Collections](https://mspoweruser.com/microsoft-announce-edge-collections-for-the-new-chromium-powered-edge-browser/)
 - [Fluid Frameworks](https://venturebeat.com/2019/05/06/microsoft-unveils-fluid-framework-a-web-based-modular-platform-for-document-creation/)
 - [Hololens Use Case](https://medium.com/@spatialxr/spatial-and-mattel-showcase-partnership-on-stage-with-microsoft-at-mwc-9620d06341cc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_YDYOHDQn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Microsoft Azure: Empowering Every Developer
 
