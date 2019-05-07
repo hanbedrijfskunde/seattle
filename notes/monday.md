@@ -1,4 +1,4 @@
-## Notes session monday May 6
+## Notes session Monday May 6
 
 ### Keynote
 - [Edge Collections](https://mspoweruser.com/microsoft-announce-edge-collections-for-the-new-chromium-powered-edge-browser/)
@@ -39,6 +39,13 @@ Microsoft Flow
 
 Azure Sphere >> Security >> Visual Studio MCU programming
 
+Azure IoT Edge
+
+ExpressLogic
+
+### Building event driven apps with Azure Functions and Azure Cosmos DB change feed
+
+
 
 ### Other
 
@@ -49,3 +56,4 @@ Quizvraag starten met: Hoe goed ben je voorbereid (0-10) en dit koppelen aan res
 
 #### Innovatie
 Met Danny bespreken hoe we technologische innovatie gaan doorgeven aan team en team aan studenten.
+Online tutorials bouwen
