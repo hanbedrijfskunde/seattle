@@ -1,4 +1,4 @@
-## Notes session monday May 6
+## Notes session Monday May 6
 
 ### Keynote
 - [Edge Collections](https://mspoweruser.com/microsoft-announce-edge-collections-for-the-new-chromium-powered-edge-browser/)
