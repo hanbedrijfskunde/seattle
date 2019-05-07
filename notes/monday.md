@@ -43,6 +43,9 @@ Azure IoT Edge
 
 ExpressLogic
 
+### Building event driven apps with Azure Functions and Azure Cosmos DB change feed
+
+
 
 ### Other
 
