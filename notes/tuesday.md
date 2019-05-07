@@ -43,6 +43,12 @@ Settings: npm.enableScriptExplorer
 Intellicode
 Shift CMD L
 Emmet div>ul>li*5>span
+
 Shift CTRl CMD
+
 rename terminal cmatrix
+
+Debugging file >> F5
+
+Remote Development Extension
 
