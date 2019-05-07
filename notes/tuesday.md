@@ -33,3 +33,16 @@ Teams >> Polly
 - Dependency Injection
 - DevOps
 
+### Visual Studio Code Tips and Tricks
+F1
+Color Themes
+Extensions @category
+CMD P
+CMD comma
+Settings: npm.enableScriptExplorer
+Intellicode
+Shift CMD L
+Emmet div>ul>li*5>span
+Shift CTRl CMD
+rename terminal cmatrix
+
