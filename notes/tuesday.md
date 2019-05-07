@@ -19,3 +19,17 @@ Why use servers less?
 
 Teams >> Polly
 
+### Serverless with Azure Functions
+
+#### Hosting
+[Load testing](https://loader.io/)
+
+#### Securing
+- Managed Identity Azure Active Directory
+- Local token endpoint
+= Key vault auto roration
+
+#### Implementing
+- Dependency Injection
+- DevOps
+
