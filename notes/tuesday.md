@@ -52,3 +52,8 @@ Debugging file >> F5
 
 Remote Development Extension
 
+### Microsoft's journey to becoming an open source enterprise with GitHub
+
+[Open Source .NET – 4 years later](https://mattwarren.org/2018/12/04/Open-Source-.Net-4-years-later)
+
+
