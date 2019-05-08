@@ -7,3 +7,5 @@
 - AML Datasets leert hoe een variabele moet worden getransformeerd via een voorbeeld
 - ONNX (FB & MS)
 
+### Choosing between Kubernetes, Containers, and Serverless
+VS supports Docker, Kubernetes, Functions
