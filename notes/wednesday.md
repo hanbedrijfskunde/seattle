@@ -17,4 +17,21 @@ App Services (Web apps)
 [Github](https://github.com/microsoftgraph/microsoft-graph-toolkit)
 portal.azure.com >> Azure AD (client ID)
 
+### Typescript
+// @ts-check
+
+----
+
+/**
+* @param {String} name
+*/
+
+----
+npm package class-validator
+
+nest.js
+
+
+
+
 
