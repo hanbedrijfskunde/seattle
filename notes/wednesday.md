@@ -17,4 +17,29 @@ App Services (Web apps)
 [Github](https://github.com/microsoftgraph/microsoft-graph-toolkit)
 portal.azure.com >> Azure AD (client ID)
 
+### Typescript
+
+
+### Continuous Delivery Infrastructure
+SRE - Site Reliability Engineering
+- Toil
+DevOps
+- Automation to deal with toil
+
+Code is:
+- Reusable
+- Source control mgmt
+- Searchability
+
+Pitfalls:
+
+Why automate
+- Serialized knowledge vs Operationals intuition
+- Amplify impact
+- Reduce time to completion
+
+[Terraform](https://www.terraform.io/)
+[Ansible](https://www.ansible.com/)
+
+
 
