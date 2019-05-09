@@ -49,8 +49,14 @@ Why automate
 - VS Code Remote Development: .devcontainer folder in VSCOde >> devcontainer.json file >> dockerfile >> run remote button >> container
 - Azure Machine Learning extension for VSCode
 
+### Building Python Web Applications w/ VSCode, Docker and Azure
+Write Python >> Select >> Shift Enter
+Preferences >> User snippets
+Python Flask
+Open VSCode-Insiders w/ .code-insiders
+
 ### Overige
-[Hot Dog App](aka.ms/hotdogapp)
+[Hot Dog App](https://amynic.github.io/build-hotdogapp/)
 
 
 
