@@ -41,5 +41,23 @@ Why automate
 [Terraform](https://www.terraform.io/)
 [Ansible](https://www.ansible.com/)
 
+### Python, TensorFlow and VSCode
+- Verschil DL en ML
+- Azure Open Datasets
+- Azure Notebooks
+- [Jupyter Notebooks in VSCode](https://code.visualstudio.com/docs/python/jupyter-support)
+- VS Code Remote Development: .devcontainer folder in VSCOde >> devcontainer.json file >> dockerfile >> run remote button >> container
+- Azure Machine Learning extension for VSCode
+
+### Building Python Web Applications w/ VSCode, Docker and Azure
+Write Python >> Select >> Shift Enter
+Preferences >> User snippets
+Python Flask
+Open VSCode-Insiders w/ .code-insiders
+
+### Overige
+[Hot Dog App](https://amynic.github.io/build-hotdogapp/)
+
+
 
 
