@@ -54,6 +54,7 @@ Write Python >> Select >> Shift Enter
 Preferences >> User snippets
 Python Flask
 Open VSCode-Insiders w/ .code-insiders
+[Video](https://youtu.be/eUitxqLxICo)
 
 ### Overige
 [Hot Dog App](https://amynic.github.io/build-hotdogapp/)
